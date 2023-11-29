@@ -1,5 +1,5 @@
 # Chapter 4 Exercises
-Below are my solutions to the exercises presented at the end of Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow.
+Below are my solutions to the exercises presented at the end of chapter 4 of Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow.
 
 ### 1. Which linear regression training algorithm can you use if you have a training set with millions of features? 
 Closed-from training algorithms become very slow as the number of features grows. Gradient descent can better handle a large number of features and should be chosen to train on a training set with millions of features.
